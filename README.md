@@ -30,7 +30,7 @@ This repository contains the tasks completed as part of my Data Science Internsh
 - `crime_incidents_messy.csv` – Dataset used for Task 1
 - `heart.csv` – Dataset used for Task 2
 
-## Technologies Used
+## Libraries Used
 
 - Python
 - Pandas
